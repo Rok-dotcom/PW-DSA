@@ -1,5 +1,5 @@
 package Arrays;
-// not completed
+// not completed - will complete
 class Largest2ndNum {
 
     static int largest2nd(int[] arr){
